@@ -56,6 +56,7 @@ Given the only data that changed was from Thomas High and it is not among the bo
 ![bottom_5_without_Thomas9th](/resources/bottom_5_without_Thomas9th.png)
 
 ### Average Math Score for each grade level from each school
+The average Math Score shows NaN for Thomas High School 9th graders. Since this was the only portion of data that was touched, all the rest remains the same.
 
 ![Math_Scores_complete](/resources/Math_Scores_complete.png)
 
@@ -82,6 +83,7 @@ Given the only data that changed was from Thomas High and it is not among the bo
 |    Wright High School | 83.3 | 84.0 | 83.8 | 83.6 |
 
 ### Average Reading Score for each grade level from each school
+The average Reading Score shows NaN for Thomas High School 9th graders. Once again, this was the only portion of data that was affected, all the rest stays the same.
 
 ![Reading_Scores_complete](/resources/Reading_Scores_complete.png)
 
@@ -108,18 +110,22 @@ Given the only data that changed was from Thomas High and it is not among the bo
 |    Wright High School | 83.8 | 83.8 | 84.2 | 84.1 |
 
 ### Scores by School Spending per Student
+The elimination of Thomas High School 9th graders scores did not change the scores by school spending per student significantly. The range $630-$644 had minor changes.
 
 ![Spending_Ranges_complete](/resources/Spending_Ranges_complete.png)
+
 ![Spending_Ranges_without_Thomas9th](/resources/Spending_Ranges_without_Thomas9th.png)
 
 
 ### Scores by School Size
+The elimination of Thomas High School 9th graders scores did not change the scores by school size significantly. The medium school range remained the same.
 
 ![School_size_complete](/resources/School_size_complete.png)
 ![School_size_without_Thomas9th](/resources/School_size_without_Thomas9th.png)
 
 
 ### Scores by School Type
+The elimination of Thomas High School 9th graders scores did not change the scores by school type significantly. Charter schools continue to outperform the district ones in both scenarios.
 
 ![School_type_complete](/resources/School_type_complete.png)
 ![School_type_without_Thomas9th](/resources/School_type_without_Thomas9th.png)
